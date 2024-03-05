@@ -20,10 +20,8 @@ The Java Code Generation Toolkit is a lightweight library for dynamically genera
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/java-code-generation-toolkit.git
+   git clone https://github.com/anonymous thesecond/JavaMetaProgrammer.git
    ```
-
-2. Add the `java-code-generation-toolkit.jar` file to your Java project's classpath.
 
 ### System Requirements
 
